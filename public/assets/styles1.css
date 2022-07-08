@@ -1,0 +1,68 @@
+.navbar #add-product-btn {
+  padding: 4px 24px;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  background: #00cc66;
+  margin-left: 16px;
+  color: #f7f7f7;
+}
+
+.navbar #add-product-btn:hover {
+  background: #222121;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.navbar #delete-product-btn {
+  padding: 4px 24px;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  background: #00cc66;
+  margin-left: 16px;
+  color: #f7f7f7;
+}
+
+.navbar #delete-product-btn:hover {
+  background: #222121;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.navbar #cancel-btn {
+  padding: 4px 24px;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  background: #00cc66;
+  margin-left: 16px;
+  color: #f7f7f7;
+}
+
+.navbar #cancel-btn:hover {
+  background: #222121;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.navbar #save-product-btn {
+  padding: 4px 24px;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  background: #00cc66;
+  margin-left: 16px;
+  color: #f7f7f7;
+}
+
+.navbar #save-product-btn:hover {
+  background: #222121;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+div.fieldbox {
+  display: none;
+}
+/*# sourceMappingURL=styles1.css.map */
